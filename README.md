@@ -1,8 +1,13 @@
 🛫 UiPath Flight Reservation Simulation – RPA Beginner Project
+
 🚀 Project Title: Flight Reservation Simulator using UiPath
+
 📅 Skill Level: Beginner
+
 📂 Technologies Used: UiPath Studio (RPA), VB.NET
+
 📄 Output: Text file with reservation confirmation
+
 
 🧠 Project Summary
 This simple UiPath process simulates a basic flight reservation system where the user selects:
